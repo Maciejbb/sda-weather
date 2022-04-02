@@ -10,8 +10,8 @@ import java.util.Scanner;
 public class UserInterface {
 
     private final Scanner scanner;
-    private final LocationController locationController;
-    private final ForecastController forecastController;
+    private final com.sda.weather.location.LocationController locationController;
+    private final com.sda.weather.forecast.ForecastController forecastController;
 
     public void runApplication() {
         System.out.println("Witaj w aplikacji pogodowej\n");
