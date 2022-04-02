@@ -1,6 +1,6 @@
 package com.sda.weather.forecast;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.sda.weather.UserInterface.*;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
